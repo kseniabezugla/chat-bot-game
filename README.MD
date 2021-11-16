@@ -2,7 +2,7 @@
 
 This project uses under the hood a popular java abstraction library for accessing Telegram Bot API - [org.telegram.telegrambots](https://github.com/rubenlagus/TelegramBots)
 
-## How to
+## How to :
 
 ### Requirements
 1. JDK/JRE 1.8
