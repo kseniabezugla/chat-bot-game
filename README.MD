@@ -24,3 +24,23 @@ This project uses under the hood a popular java abstraction library for accessin
 3. Start to send your guess to the chat and enjoy
 
 ![screenshot](https://raw.githubusercontent.com/devatlant/chat-bot-game/master/res/telegram_screenshot.jpg)
+
+# About me
+## _Kseniia Bezuhla_
+##### DONNÉES PERSONNELLES
+
+[Email](kseniabezugla@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kseniia-bezuhla-b909461b7/)
+[Projets sur Gitlab](https://gitlab.com/kseniabezugla/projects)
+
+##### COMPÉTENCES
+- HTML, CSS, Sass, Bootstrap;
+- JavaScript, React.js, TypeScript;
+- Redux, MobX, Redux-Saga;
+- React Native;
+- AEM Architecture;
+- git, npm, yarn;
+- Linux
+- Jira, Azure;
+- Connaissances de base de Java, C#, SQL, Python.
+
