@@ -31,4 +31,27 @@ class GameTest {
            throw new RuntimeException("wrong json syntax for "+ text,e);
         }
     }
+    @org.junit.jupiter.api.Test
+    public void should_return_true_when_input_data_is_integer(){
+        //given
+        testSubject = new Game(100);
+
+        //run
+        boolean res = testSubject.isInteger("100");
+
+        // assert
+        assertEquals(true, res);
+    }
+
+    @org.junit.jupiter.api.Test
+    public void should_return_false_for_text_anyText(){
+        //given
+        testSubject = new Game(100);
+
+        //run
+        boolean res = testSubject.isInteger("text");
+
+        // assert
+        assertEquals(false, res);
+    }
 }
